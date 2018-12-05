@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is my Code
+=======
+Existing code
+>>>>>>> a4f79371165cd18abf77eb5713730011162ee185
